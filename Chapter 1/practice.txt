@@ -1,0 +1,4 @@
+The allowabe range for integer constant is -32768 to 32767.
+A character constant is a single alphabet,a single ...
+'m'
+
